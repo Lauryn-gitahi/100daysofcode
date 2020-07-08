@@ -1,0 +1,22 @@
+body{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 45vh;
+}
+
+.btn{
+  width:10vw;
+  height: 6vh;
+  border-radius: 20px;
+
+  background: transparent;
+  color: blue;
+  outline: none;
+}
